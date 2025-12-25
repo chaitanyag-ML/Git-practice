@@ -23,11 +23,3 @@ A simple **Machine Learning** project in Python that predicts a student’s fina
 5. Predict the final grade for new inputs
 
 ---
-
-## 🛠️ Installation
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
